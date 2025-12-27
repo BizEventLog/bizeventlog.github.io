@@ -27,6 +27,9 @@ url: "https://bizeventlog.github.io" # the base hostname & protocol for your sit
 # twitter_username: jekyllrb
 github_username:  BizEventLog
 
+# Open links to social media in separate tab/window
+social_target: _blank
+
 # Build settings
 theme: minima
 plugins:
