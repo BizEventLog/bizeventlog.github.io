@@ -31,7 +31,7 @@ at business transactions as a series of connected events. It is similar
 to a business process model (think BPMN, ARIS EPC, etc.).
 
 These events are linked via unique IDs and can be enriched with whatever
-data makes sense for your busines. Those can be simple values like a
+data makes sense for your business. Those can be simple values like a
 customer status, binary attachments like PDFs, or structured data like
 JSON , XML, CSV, etc. And of course you can log individual steps like
 "Customer status retrieved from XYZ = GOLD".
@@ -48,7 +48,7 @@ Together this allows you to quickly see what happened and react
 accordingly.
 
 The system is designed to support different types
-of backends. So you can start with a plain file system, later
+of backends. So you can start with a plain file system, and later
 move to a relational database, or something else. No code changes
 are required, just some configuration updates.
 
