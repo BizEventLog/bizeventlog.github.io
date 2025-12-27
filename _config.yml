@@ -21,7 +21,7 @@
 title: BizEventLog
 email: info@bizeventlog.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Business-level observability made easy
+  Observability for Business
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bizeventlog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

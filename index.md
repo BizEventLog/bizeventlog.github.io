@@ -3,10 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Business-level observability made easy
+# title: Observability for Business
 ---
 
-![Image]({{ '/assets/image/open-source.svg' | relative_url }}){: width="150"}
+![Image]({{ '/assets/image/logo-full-opensource.gif' | relative_url }}){: width="700"}
+
 
 Observability is the art to always know how your IT systems are doing.
 But most solutions out there focus on the technical side,
